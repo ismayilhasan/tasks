@@ -1,0 +1,14 @@
+C:\Users\AZKOMP\source\repos\homework_boyuk_kicik\homework_boyuk_kicik\bin\Debug\netcoreapp3.1\homework_boyuk_kicik.exe
+C:\Users\AZKOMP\source\repos\homework_boyuk_kicik\homework_boyuk_kicik\bin\Debug\netcoreapp3.1\homework_boyuk_kicik.deps.json
+C:\Users\AZKOMP\source\repos\homework_boyuk_kicik\homework_boyuk_kicik\bin\Debug\netcoreapp3.1\homework_boyuk_kicik.runtimeconfig.json
+C:\Users\AZKOMP\source\repos\homework_boyuk_kicik\homework_boyuk_kicik\bin\Debug\netcoreapp3.1\homework_boyuk_kicik.runtimeconfig.dev.json
+C:\Users\AZKOMP\source\repos\homework_boyuk_kicik\homework_boyuk_kicik\bin\Debug\netcoreapp3.1\homework_boyuk_kicik.dll
+C:\Users\AZKOMP\source\repos\homework_boyuk_kicik\homework_boyuk_kicik\bin\Debug\netcoreapp3.1\homework_boyuk_kicik.pdb
+C:\Users\AZKOMP\source\repos\homework_boyuk_kicik\homework_boyuk_kicik\obj\Debug\netcoreapp3.1\homework_boyuk_kicik.csproj.AssemblyReference.cache
+C:\Users\AZKOMP\source\repos\homework_boyuk_kicik\homework_boyuk_kicik\obj\Debug\netcoreapp3.1\homework_boyuk_kicik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZKOMP\source\repos\homework_boyuk_kicik\homework_boyuk_kicik\obj\Debug\netcoreapp3.1\homework_boyuk_kicik.AssemblyInfoInputs.cache
+C:\Users\AZKOMP\source\repos\homework_boyuk_kicik\homework_boyuk_kicik\obj\Debug\netcoreapp3.1\homework_boyuk_kicik.AssemblyInfo.cs
+C:\Users\AZKOMP\source\repos\homework_boyuk_kicik\homework_boyuk_kicik\obj\Debug\netcoreapp3.1\homework_boyuk_kicik.csproj.CoreCompileInputs.cache
+C:\Users\AZKOMP\source\repos\homework_boyuk_kicik\homework_boyuk_kicik\obj\Debug\netcoreapp3.1\homework_boyuk_kicik.dll
+C:\Users\AZKOMP\source\repos\homework_boyuk_kicik\homework_boyuk_kicik\obj\Debug\netcoreapp3.1\homework_boyuk_kicik.pdb
+C:\Users\AZKOMP\source\repos\homework_boyuk_kicik\homework_boyuk_kicik\obj\Debug\netcoreapp3.1\homework_boyuk_kicik.genruntimeconfig.cache
