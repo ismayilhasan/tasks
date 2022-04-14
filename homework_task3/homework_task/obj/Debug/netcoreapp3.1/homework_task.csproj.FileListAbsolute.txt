@@ -1,0 +1,14 @@
+C:\Users\AZKOMP\source\repos\homework_task\homework_task\bin\Debug\netcoreapp3.1\homework_task.exe
+C:\Users\AZKOMP\source\repos\homework_task\homework_task\bin\Debug\netcoreapp3.1\homework_task.deps.json
+C:\Users\AZKOMP\source\repos\homework_task\homework_task\bin\Debug\netcoreapp3.1\homework_task.runtimeconfig.json
+C:\Users\AZKOMP\source\repos\homework_task\homework_task\bin\Debug\netcoreapp3.1\homework_task.runtimeconfig.dev.json
+C:\Users\AZKOMP\source\repos\homework_task\homework_task\bin\Debug\netcoreapp3.1\homework_task.dll
+C:\Users\AZKOMP\source\repos\homework_task\homework_task\bin\Debug\netcoreapp3.1\homework_task.pdb
+C:\Users\AZKOMP\source\repos\homework_task\homework_task\obj\Debug\netcoreapp3.1\homework_task.csproj.AssemblyReference.cache
+C:\Users\AZKOMP\source\repos\homework_task\homework_task\obj\Debug\netcoreapp3.1\homework_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZKOMP\source\repos\homework_task\homework_task\obj\Debug\netcoreapp3.1\homework_task.AssemblyInfoInputs.cache
+C:\Users\AZKOMP\source\repos\homework_task\homework_task\obj\Debug\netcoreapp3.1\homework_task.AssemblyInfo.cs
+C:\Users\AZKOMP\source\repos\homework_task\homework_task\obj\Debug\netcoreapp3.1\homework_task.csproj.CoreCompileInputs.cache
+C:\Users\AZKOMP\source\repos\homework_task\homework_task\obj\Debug\netcoreapp3.1\homework_task.dll
+C:\Users\AZKOMP\source\repos\homework_task\homework_task\obj\Debug\netcoreapp3.1\homework_task.pdb
+C:\Users\AZKOMP\source\repos\homework_task\homework_task\obj\Debug\netcoreapp3.1\homework_task.genruntimeconfig.cache
