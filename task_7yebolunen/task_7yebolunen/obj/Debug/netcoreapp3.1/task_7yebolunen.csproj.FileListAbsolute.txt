@@ -1,0 +1,14 @@
+C:\Users\AZKOMP\source\repos\task_7yebolunen\task_7yebolunen\bin\Debug\netcoreapp3.1\task_7yebolunen.exe
+C:\Users\AZKOMP\source\repos\task_7yebolunen\task_7yebolunen\bin\Debug\netcoreapp3.1\task_7yebolunen.deps.json
+C:\Users\AZKOMP\source\repos\task_7yebolunen\task_7yebolunen\bin\Debug\netcoreapp3.1\task_7yebolunen.runtimeconfig.json
+C:\Users\AZKOMP\source\repos\task_7yebolunen\task_7yebolunen\bin\Debug\netcoreapp3.1\task_7yebolunen.runtimeconfig.dev.json
+C:\Users\AZKOMP\source\repos\task_7yebolunen\task_7yebolunen\bin\Debug\netcoreapp3.1\task_7yebolunen.dll
+C:\Users\AZKOMP\source\repos\task_7yebolunen\task_7yebolunen\bin\Debug\netcoreapp3.1\task_7yebolunen.pdb
+C:\Users\AZKOMP\source\repos\task_7yebolunen\task_7yebolunen\obj\Debug\netcoreapp3.1\task_7yebolunen.csproj.AssemblyReference.cache
+C:\Users\AZKOMP\source\repos\task_7yebolunen\task_7yebolunen\obj\Debug\netcoreapp3.1\task_7yebolunen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZKOMP\source\repos\task_7yebolunen\task_7yebolunen\obj\Debug\netcoreapp3.1\task_7yebolunen.AssemblyInfoInputs.cache
+C:\Users\AZKOMP\source\repos\task_7yebolunen\task_7yebolunen\obj\Debug\netcoreapp3.1\task_7yebolunen.AssemblyInfo.cs
+C:\Users\AZKOMP\source\repos\task_7yebolunen\task_7yebolunen\obj\Debug\netcoreapp3.1\task_7yebolunen.csproj.CoreCompileInputs.cache
+C:\Users\AZKOMP\source\repos\task_7yebolunen\task_7yebolunen\obj\Debug\netcoreapp3.1\task_7yebolunen.dll
+C:\Users\AZKOMP\source\repos\task_7yebolunen\task_7yebolunen\obj\Debug\netcoreapp3.1\task_7yebolunen.pdb
+C:\Users\AZKOMP\source\repos\task_7yebolunen\task_7yebolunen\obj\Debug\netcoreapp3.1\task_7yebolunen.genruntimeconfig.cache
