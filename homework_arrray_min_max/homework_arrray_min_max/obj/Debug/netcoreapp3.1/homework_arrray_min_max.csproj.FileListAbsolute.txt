@@ -1,0 +1,14 @@
+C:\Users\AZKOMP\source\repos\homework_arrray_min_max\homework_arrray_min_max\bin\Debug\netcoreapp3.1\homework_arrray_min_max.exe
+C:\Users\AZKOMP\source\repos\homework_arrray_min_max\homework_arrray_min_max\bin\Debug\netcoreapp3.1\homework_arrray_min_max.deps.json
+C:\Users\AZKOMP\source\repos\homework_arrray_min_max\homework_arrray_min_max\bin\Debug\netcoreapp3.1\homework_arrray_min_max.runtimeconfig.json
+C:\Users\AZKOMP\source\repos\homework_arrray_min_max\homework_arrray_min_max\bin\Debug\netcoreapp3.1\homework_arrray_min_max.runtimeconfig.dev.json
+C:\Users\AZKOMP\source\repos\homework_arrray_min_max\homework_arrray_min_max\bin\Debug\netcoreapp3.1\homework_arrray_min_max.dll
+C:\Users\AZKOMP\source\repos\homework_arrray_min_max\homework_arrray_min_max\bin\Debug\netcoreapp3.1\homework_arrray_min_max.pdb
+C:\Users\AZKOMP\source\repos\homework_arrray_min_max\homework_arrray_min_max\obj\Debug\netcoreapp3.1\homework_arrray_min_max.csproj.AssemblyReference.cache
+C:\Users\AZKOMP\source\repos\homework_arrray_min_max\homework_arrray_min_max\obj\Debug\netcoreapp3.1\homework_arrray_min_max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZKOMP\source\repos\homework_arrray_min_max\homework_arrray_min_max\obj\Debug\netcoreapp3.1\homework_arrray_min_max.AssemblyInfoInputs.cache
+C:\Users\AZKOMP\source\repos\homework_arrray_min_max\homework_arrray_min_max\obj\Debug\netcoreapp3.1\homework_arrray_min_max.AssemblyInfo.cs
+C:\Users\AZKOMP\source\repos\homework_arrray_min_max\homework_arrray_min_max\obj\Debug\netcoreapp3.1\homework_arrray_min_max.csproj.CoreCompileInputs.cache
+C:\Users\AZKOMP\source\repos\homework_arrray_min_max\homework_arrray_min_max\obj\Debug\netcoreapp3.1\homework_arrray_min_max.dll
+C:\Users\AZKOMP\source\repos\homework_arrray_min_max\homework_arrray_min_max\obj\Debug\netcoreapp3.1\homework_arrray_min_max.pdb
+C:\Users\AZKOMP\source\repos\homework_arrray_min_max\homework_arrray_min_max\obj\Debug\netcoreapp3.1\homework_arrray_min_max.genruntimeconfig.cache
