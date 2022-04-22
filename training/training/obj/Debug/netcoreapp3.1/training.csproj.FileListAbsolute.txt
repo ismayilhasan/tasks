@@ -1,0 +1,14 @@
+C:\Users\AZKOMP\source\repos\training\training\obj\Debug\netcoreapp3.1\training.csproj.AssemblyReference.cache
+C:\Users\AZKOMP\source\repos\training\training\obj\Debug\netcoreapp3.1\training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZKOMP\source\repos\training\training\obj\Debug\netcoreapp3.1\training.AssemblyInfoInputs.cache
+C:\Users\AZKOMP\source\repos\training\training\obj\Debug\netcoreapp3.1\training.AssemblyInfo.cs
+C:\Users\AZKOMP\source\repos\training\training\obj\Debug\netcoreapp3.1\training.csproj.CoreCompileInputs.cache
+C:\Users\AZKOMP\source\repos\training\training\bin\Debug\netcoreapp3.1\training.exe
+C:\Users\AZKOMP\source\repos\training\training\bin\Debug\netcoreapp3.1\training.deps.json
+C:\Users\AZKOMP\source\repos\training\training\bin\Debug\netcoreapp3.1\training.runtimeconfig.json
+C:\Users\AZKOMP\source\repos\training\training\bin\Debug\netcoreapp3.1\training.runtimeconfig.dev.json
+C:\Users\AZKOMP\source\repos\training\training\bin\Debug\netcoreapp3.1\training.dll
+C:\Users\AZKOMP\source\repos\training\training\bin\Debug\netcoreapp3.1\training.pdb
+C:\Users\AZKOMP\source\repos\training\training\obj\Debug\netcoreapp3.1\training.dll
+C:\Users\AZKOMP\source\repos\training\training\obj\Debug\netcoreapp3.1\training.pdb
+C:\Users\AZKOMP\source\repos\training\training\obj\Debug\netcoreapp3.1\training.genruntimeconfig.cache
