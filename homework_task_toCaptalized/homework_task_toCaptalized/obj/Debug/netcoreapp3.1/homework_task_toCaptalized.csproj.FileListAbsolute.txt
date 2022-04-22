@@ -1,0 +1,14 @@
+C:\Users\AZKOMP\source\repos\homework_task_toCaptalized\homework_task_toCaptalized\bin\Debug\netcoreapp3.1\homework_task_toCaptalized.exe
+C:\Users\AZKOMP\source\repos\homework_task_toCaptalized\homework_task_toCaptalized\bin\Debug\netcoreapp3.1\homework_task_toCaptalized.deps.json
+C:\Users\AZKOMP\source\repos\homework_task_toCaptalized\homework_task_toCaptalized\bin\Debug\netcoreapp3.1\homework_task_toCaptalized.runtimeconfig.json
+C:\Users\AZKOMP\source\repos\homework_task_toCaptalized\homework_task_toCaptalized\bin\Debug\netcoreapp3.1\homework_task_toCaptalized.runtimeconfig.dev.json
+C:\Users\AZKOMP\source\repos\homework_task_toCaptalized\homework_task_toCaptalized\bin\Debug\netcoreapp3.1\homework_task_toCaptalized.dll
+C:\Users\AZKOMP\source\repos\homework_task_toCaptalized\homework_task_toCaptalized\bin\Debug\netcoreapp3.1\homework_task_toCaptalized.pdb
+C:\Users\AZKOMP\source\repos\homework_task_toCaptalized\homework_task_toCaptalized\obj\Debug\netcoreapp3.1\homework_task_toCaptalized.csproj.AssemblyReference.cache
+C:\Users\AZKOMP\source\repos\homework_task_toCaptalized\homework_task_toCaptalized\obj\Debug\netcoreapp3.1\homework_task_toCaptalized.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZKOMP\source\repos\homework_task_toCaptalized\homework_task_toCaptalized\obj\Debug\netcoreapp3.1\homework_task_toCaptalized.AssemblyInfoInputs.cache
+C:\Users\AZKOMP\source\repos\homework_task_toCaptalized\homework_task_toCaptalized\obj\Debug\netcoreapp3.1\homework_task_toCaptalized.AssemblyInfo.cs
+C:\Users\AZKOMP\source\repos\homework_task_toCaptalized\homework_task_toCaptalized\obj\Debug\netcoreapp3.1\homework_task_toCaptalized.csproj.CoreCompileInputs.cache
+C:\Users\AZKOMP\source\repos\homework_task_toCaptalized\homework_task_toCaptalized\obj\Debug\netcoreapp3.1\homework_task_toCaptalized.dll
+C:\Users\AZKOMP\source\repos\homework_task_toCaptalized\homework_task_toCaptalized\obj\Debug\netcoreapp3.1\homework_task_toCaptalized.pdb
+C:\Users\AZKOMP\source\repos\homework_task_toCaptalized\homework_task_toCaptalized\obj\Debug\netcoreapp3.1\homework_task_toCaptalized.genruntimeconfig.cache
