@@ -1,0 +1,14 @@
+C:\Users\Ismayil Hasanov\source\repos\homework_task_class1\homework_task_class1\bin\Debug\netcoreapp3.1\homework_task_class1.exe
+C:\Users\Ismayil Hasanov\source\repos\homework_task_class1\homework_task_class1\bin\Debug\netcoreapp3.1\homework_task_class1.deps.json
+C:\Users\Ismayil Hasanov\source\repos\homework_task_class1\homework_task_class1\bin\Debug\netcoreapp3.1\homework_task_class1.runtimeconfig.json
+C:\Users\Ismayil Hasanov\source\repos\homework_task_class1\homework_task_class1\bin\Debug\netcoreapp3.1\homework_task_class1.runtimeconfig.dev.json
+C:\Users\Ismayil Hasanov\source\repos\homework_task_class1\homework_task_class1\bin\Debug\netcoreapp3.1\homework_task_class1.dll
+C:\Users\Ismayil Hasanov\source\repos\homework_task_class1\homework_task_class1\bin\Debug\netcoreapp3.1\homework_task_class1.pdb
+C:\Users\Ismayil Hasanov\source\repos\homework_task_class1\homework_task_class1\obj\Debug\netcoreapp3.1\homework_task_class1.csproj.AssemblyReference.cache
+C:\Users\Ismayil Hasanov\source\repos\homework_task_class1\homework_task_class1\obj\Debug\netcoreapp3.1\homework_task_class1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ismayil Hasanov\source\repos\homework_task_class1\homework_task_class1\obj\Debug\netcoreapp3.1\homework_task_class1.AssemblyInfoInputs.cache
+C:\Users\Ismayil Hasanov\source\repos\homework_task_class1\homework_task_class1\obj\Debug\netcoreapp3.1\homework_task_class1.AssemblyInfo.cs
+C:\Users\Ismayil Hasanov\source\repos\homework_task_class1\homework_task_class1\obj\Debug\netcoreapp3.1\homework_task_class1.csproj.CoreCompileInputs.cache
+C:\Users\Ismayil Hasanov\source\repos\homework_task_class1\homework_task_class1\obj\Debug\netcoreapp3.1\homework_task_class1.dll
+C:\Users\Ismayil Hasanov\source\repos\homework_task_class1\homework_task_class1\obj\Debug\netcoreapp3.1\homework_task_class1.pdb
+C:\Users\Ismayil Hasanov\source\repos\homework_task_class1\homework_task_class1\obj\Debug\netcoreapp3.1\homework_task_class1.genruntimeconfig.cache
