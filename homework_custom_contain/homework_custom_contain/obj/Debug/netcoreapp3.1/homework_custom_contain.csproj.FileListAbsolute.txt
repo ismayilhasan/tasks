@@ -1,0 +1,14 @@
+C:\Users\Ismayil Hasanov\source\repos\homework_custom_contain\homework_custom_contain\bin\Debug\netcoreapp3.1\homework_custom_contain.exe
+C:\Users\Ismayil Hasanov\source\repos\homework_custom_contain\homework_custom_contain\bin\Debug\netcoreapp3.1\homework_custom_contain.deps.json
+C:\Users\Ismayil Hasanov\source\repos\homework_custom_contain\homework_custom_contain\bin\Debug\netcoreapp3.1\homework_custom_contain.runtimeconfig.json
+C:\Users\Ismayil Hasanov\source\repos\homework_custom_contain\homework_custom_contain\bin\Debug\netcoreapp3.1\homework_custom_contain.runtimeconfig.dev.json
+C:\Users\Ismayil Hasanov\source\repos\homework_custom_contain\homework_custom_contain\bin\Debug\netcoreapp3.1\homework_custom_contain.dll
+C:\Users\Ismayil Hasanov\source\repos\homework_custom_contain\homework_custom_contain\bin\Debug\netcoreapp3.1\homework_custom_contain.pdb
+C:\Users\Ismayil Hasanov\source\repos\homework_custom_contain\homework_custom_contain\obj\Debug\netcoreapp3.1\homework_custom_contain.csproj.AssemblyReference.cache
+C:\Users\Ismayil Hasanov\source\repos\homework_custom_contain\homework_custom_contain\obj\Debug\netcoreapp3.1\homework_custom_contain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ismayil Hasanov\source\repos\homework_custom_contain\homework_custom_contain\obj\Debug\netcoreapp3.1\homework_custom_contain.AssemblyInfoInputs.cache
+C:\Users\Ismayil Hasanov\source\repos\homework_custom_contain\homework_custom_contain\obj\Debug\netcoreapp3.1\homework_custom_contain.AssemblyInfo.cs
+C:\Users\Ismayil Hasanov\source\repos\homework_custom_contain\homework_custom_contain\obj\Debug\netcoreapp3.1\homework_custom_contain.csproj.CoreCompileInputs.cache
+C:\Users\Ismayil Hasanov\source\repos\homework_custom_contain\homework_custom_contain\obj\Debug\netcoreapp3.1\homework_custom_contain.dll
+C:\Users\Ismayil Hasanov\source\repos\homework_custom_contain\homework_custom_contain\obj\Debug\netcoreapp3.1\homework_custom_contain.pdb
+C:\Users\Ismayil Hasanov\source\repos\homework_custom_contain\homework_custom_contain\obj\Debug\netcoreapp3.1\homework_custom_contain.genruntimeconfig.cache

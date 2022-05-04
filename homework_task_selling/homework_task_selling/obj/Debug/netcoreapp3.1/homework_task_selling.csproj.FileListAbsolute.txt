@@ -1,0 +1,14 @@
+C:\Users\Ismayil Hasanov\source\repos\homework_task_selling\homework_task_selling\bin\Debug\netcoreapp3.1\homework_task_selling.exe
+C:\Users\Ismayil Hasanov\source\repos\homework_task_selling\homework_task_selling\bin\Debug\netcoreapp3.1\homework_task_selling.deps.json
+C:\Users\Ismayil Hasanov\source\repos\homework_task_selling\homework_task_selling\bin\Debug\netcoreapp3.1\homework_task_selling.runtimeconfig.json
+C:\Users\Ismayil Hasanov\source\repos\homework_task_selling\homework_task_selling\bin\Debug\netcoreapp3.1\homework_task_selling.runtimeconfig.dev.json
+C:\Users\Ismayil Hasanov\source\repos\homework_task_selling\homework_task_selling\bin\Debug\netcoreapp3.1\homework_task_selling.dll
+C:\Users\Ismayil Hasanov\source\repos\homework_task_selling\homework_task_selling\bin\Debug\netcoreapp3.1\homework_task_selling.pdb
+C:\Users\Ismayil Hasanov\source\repos\homework_task_selling\homework_task_selling\obj\Debug\netcoreapp3.1\homework_task_selling.csproj.AssemblyReference.cache
+C:\Users\Ismayil Hasanov\source\repos\homework_task_selling\homework_task_selling\obj\Debug\netcoreapp3.1\homework_task_selling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ismayil Hasanov\source\repos\homework_task_selling\homework_task_selling\obj\Debug\netcoreapp3.1\homework_task_selling.AssemblyInfoInputs.cache
+C:\Users\Ismayil Hasanov\source\repos\homework_task_selling\homework_task_selling\obj\Debug\netcoreapp3.1\homework_task_selling.AssemblyInfo.cs
+C:\Users\Ismayil Hasanov\source\repos\homework_task_selling\homework_task_selling\obj\Debug\netcoreapp3.1\homework_task_selling.csproj.CoreCompileInputs.cache
+C:\Users\Ismayil Hasanov\source\repos\homework_task_selling\homework_task_selling\obj\Debug\netcoreapp3.1\homework_task_selling.dll
+C:\Users\Ismayil Hasanov\source\repos\homework_task_selling\homework_task_selling\obj\Debug\netcoreapp3.1\homework_task_selling.pdb
+C:\Users\Ismayil Hasanov\source\repos\homework_task_selling\homework_task_selling\obj\Debug\netcoreapp3.1\homework_task_selling.genruntimeconfig.cache
