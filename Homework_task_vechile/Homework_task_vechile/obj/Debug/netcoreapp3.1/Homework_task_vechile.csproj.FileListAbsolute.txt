@@ -1,0 +1,14 @@
+C:\Users\Ismayil Hasanov\source\repos\Homework_task_vechile\Homework_task_vechile\bin\Debug\netcoreapp3.1\Homework_task_vechile.exe
+C:\Users\Ismayil Hasanov\source\repos\Homework_task_vechile\Homework_task_vechile\bin\Debug\netcoreapp3.1\Homework_task_vechile.deps.json
+C:\Users\Ismayil Hasanov\source\repos\Homework_task_vechile\Homework_task_vechile\bin\Debug\netcoreapp3.1\Homework_task_vechile.runtimeconfig.json
+C:\Users\Ismayil Hasanov\source\repos\Homework_task_vechile\Homework_task_vechile\bin\Debug\netcoreapp3.1\Homework_task_vechile.runtimeconfig.dev.json
+C:\Users\Ismayil Hasanov\source\repos\Homework_task_vechile\Homework_task_vechile\bin\Debug\netcoreapp3.1\Homework_task_vechile.dll
+C:\Users\Ismayil Hasanov\source\repos\Homework_task_vechile\Homework_task_vechile\bin\Debug\netcoreapp3.1\Homework_task_vechile.pdb
+C:\Users\Ismayil Hasanov\source\repos\Homework_task_vechile\Homework_task_vechile\obj\Debug\netcoreapp3.1\Homework_task_vechile.csproj.AssemblyReference.cache
+C:\Users\Ismayil Hasanov\source\repos\Homework_task_vechile\Homework_task_vechile\obj\Debug\netcoreapp3.1\Homework_task_vechile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ismayil Hasanov\source\repos\Homework_task_vechile\Homework_task_vechile\obj\Debug\netcoreapp3.1\Homework_task_vechile.AssemblyInfoInputs.cache
+C:\Users\Ismayil Hasanov\source\repos\Homework_task_vechile\Homework_task_vechile\obj\Debug\netcoreapp3.1\Homework_task_vechile.AssemblyInfo.cs
+C:\Users\Ismayil Hasanov\source\repos\Homework_task_vechile\Homework_task_vechile\obj\Debug\netcoreapp3.1\Homework_task_vechile.csproj.CoreCompileInputs.cache
+C:\Users\Ismayil Hasanov\source\repos\Homework_task_vechile\Homework_task_vechile\obj\Debug\netcoreapp3.1\Homework_task_vechile.dll
+C:\Users\Ismayil Hasanov\source\repos\Homework_task_vechile\Homework_task_vechile\obj\Debug\netcoreapp3.1\Homework_task_vechile.pdb
+C:\Users\Ismayil Hasanov\source\repos\Homework_task_vechile\Homework_task_vechile\obj\Debug\netcoreapp3.1\Homework_task_vechile.genruntimeconfig.cache
