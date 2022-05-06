@@ -1,0 +1,14 @@
+C:\Users\Ismayil Hasanov\source\repos\Homework_casting\Homework_casting\bin\Debug\netcoreapp3.1\Homework_casting.exe
+C:\Users\Ismayil Hasanov\source\repos\Homework_casting\Homework_casting\bin\Debug\netcoreapp3.1\Homework_casting.deps.json
+C:\Users\Ismayil Hasanov\source\repos\Homework_casting\Homework_casting\bin\Debug\netcoreapp3.1\Homework_casting.runtimeconfig.json
+C:\Users\Ismayil Hasanov\source\repos\Homework_casting\Homework_casting\bin\Debug\netcoreapp3.1\Homework_casting.runtimeconfig.dev.json
+C:\Users\Ismayil Hasanov\source\repos\Homework_casting\Homework_casting\bin\Debug\netcoreapp3.1\Homework_casting.dll
+C:\Users\Ismayil Hasanov\source\repos\Homework_casting\Homework_casting\bin\Debug\netcoreapp3.1\Homework_casting.pdb
+C:\Users\Ismayil Hasanov\source\repos\Homework_casting\Homework_casting\obj\Debug\netcoreapp3.1\Homework_casting.csproj.AssemblyReference.cache
+C:\Users\Ismayil Hasanov\source\repos\Homework_casting\Homework_casting\obj\Debug\netcoreapp3.1\Homework_casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ismayil Hasanov\source\repos\Homework_casting\Homework_casting\obj\Debug\netcoreapp3.1\Homework_casting.AssemblyInfoInputs.cache
+C:\Users\Ismayil Hasanov\source\repos\Homework_casting\Homework_casting\obj\Debug\netcoreapp3.1\Homework_casting.AssemblyInfo.cs
+C:\Users\Ismayil Hasanov\source\repos\Homework_casting\Homework_casting\obj\Debug\netcoreapp3.1\Homework_casting.csproj.CoreCompileInputs.cache
+C:\Users\Ismayil Hasanov\source\repos\Homework_casting\Homework_casting\obj\Debug\netcoreapp3.1\Homework_casting.dll
+C:\Users\Ismayil Hasanov\source\repos\Homework_casting\Homework_casting\obj\Debug\netcoreapp3.1\Homework_casting.pdb
+C:\Users\Ismayil Hasanov\source\repos\Homework_casting\Homework_casting\obj\Debug\netcoreapp3.1\Homework_casting.genruntimeconfig.cache
