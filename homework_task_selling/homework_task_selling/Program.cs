@@ -11,7 +11,7 @@ namespace homework_task_selling
             bread.Sell();
             bread.Sell();
             bread.Sell();
-
+            
             Console.WriteLine("************************");
             Console.WriteLine("milk products");
             Milk milk = new Milk("milk", 3, 5, 2, 50);

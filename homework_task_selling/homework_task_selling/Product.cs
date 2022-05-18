@@ -12,7 +12,7 @@ namespace homework_task_selling
         public static int Income;
         public static int TotalinCome;
         int selledCount;
-
+        
         public Product(string name,byte price,byte count)
         {
             Name = name;
