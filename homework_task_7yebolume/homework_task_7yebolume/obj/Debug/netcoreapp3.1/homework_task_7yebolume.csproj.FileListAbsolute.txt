@@ -1,0 +1,14 @@
+C:\Users\AZKOMP\source\repos\homework_task_7yebolume\homework_task_7yebolume\obj\Debug\netcoreapp3.1\homework_task_7yebolume.csproj.AssemblyReference.cache
+C:\Users\AZKOMP\source\repos\homework_task_7yebolume\homework_task_7yebolume\obj\Debug\netcoreapp3.1\homework_task_7yebolume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZKOMP\source\repos\homework_task_7yebolume\homework_task_7yebolume\obj\Debug\netcoreapp3.1\homework_task_7yebolume.AssemblyInfoInputs.cache
+C:\Users\AZKOMP\source\repos\homework_task_7yebolume\homework_task_7yebolume\obj\Debug\netcoreapp3.1\homework_task_7yebolume.AssemblyInfo.cs
+C:\Users\AZKOMP\source\repos\homework_task_7yebolume\homework_task_7yebolume\obj\Debug\netcoreapp3.1\homework_task_7yebolume.csproj.CoreCompileInputs.cache
+C:\Users\AZKOMP\source\repos\homework_task_7yebolume\homework_task_7yebolume\bin\Debug\netcoreapp3.1\homework_task_7yebolume.exe
+C:\Users\AZKOMP\source\repos\homework_task_7yebolume\homework_task_7yebolume\bin\Debug\netcoreapp3.1\homework_task_7yebolume.deps.json
+C:\Users\AZKOMP\source\repos\homework_task_7yebolume\homework_task_7yebolume\bin\Debug\netcoreapp3.1\homework_task_7yebolume.runtimeconfig.json
+C:\Users\AZKOMP\source\repos\homework_task_7yebolume\homework_task_7yebolume\bin\Debug\netcoreapp3.1\homework_task_7yebolume.runtimeconfig.dev.json
+C:\Users\AZKOMP\source\repos\homework_task_7yebolume\homework_task_7yebolume\bin\Debug\netcoreapp3.1\homework_task_7yebolume.dll
+C:\Users\AZKOMP\source\repos\homework_task_7yebolume\homework_task_7yebolume\bin\Debug\netcoreapp3.1\homework_task_7yebolume.pdb
+C:\Users\AZKOMP\source\repos\homework_task_7yebolume\homework_task_7yebolume\obj\Debug\netcoreapp3.1\homework_task_7yebolume.dll
+C:\Users\AZKOMP\source\repos\homework_task_7yebolume\homework_task_7yebolume\obj\Debug\netcoreapp3.1\homework_task_7yebolume.pdb
+C:\Users\AZKOMP\source\repos\homework_task_7yebolume\homework_task_7yebolume\obj\Debug\netcoreapp3.1\homework_task_7yebolume.genruntimeconfig.cache
