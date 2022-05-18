@@ -1,0 +1,14 @@
+C:\Users\Ismayil Hasanov\source\repos\Homework_Find_Population\Homework_Find_Population\obj\Debug\netcoreapp3.1\Homework_Find_Population.csproj.AssemblyReference.cache
+C:\Users\Ismayil Hasanov\source\repos\Homework_Find_Population\Homework_Find_Population\obj\Debug\netcoreapp3.1\Homework_Find_Population.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ismayil Hasanov\source\repos\Homework_Find_Population\Homework_Find_Population\obj\Debug\netcoreapp3.1\Homework_Find_Population.AssemblyInfoInputs.cache
+C:\Users\Ismayil Hasanov\source\repos\Homework_Find_Population\Homework_Find_Population\obj\Debug\netcoreapp3.1\Homework_Find_Population.AssemblyInfo.cs
+C:\Users\Ismayil Hasanov\source\repos\Homework_Find_Population\Homework_Find_Population\obj\Debug\netcoreapp3.1\Homework_Find_Population.csproj.CoreCompileInputs.cache
+C:\Users\Ismayil Hasanov\source\repos\Homework_Find_Population\Homework_Find_Population\bin\Debug\netcoreapp3.1\Homework_Find_Population.exe
+C:\Users\Ismayil Hasanov\source\repos\Homework_Find_Population\Homework_Find_Population\bin\Debug\netcoreapp3.1\Homework_Find_Population.deps.json
+C:\Users\Ismayil Hasanov\source\repos\Homework_Find_Population\Homework_Find_Population\bin\Debug\netcoreapp3.1\Homework_Find_Population.runtimeconfig.json
+C:\Users\Ismayil Hasanov\source\repos\Homework_Find_Population\Homework_Find_Population\bin\Debug\netcoreapp3.1\Homework_Find_Population.runtimeconfig.dev.json
+C:\Users\Ismayil Hasanov\source\repos\Homework_Find_Population\Homework_Find_Population\bin\Debug\netcoreapp3.1\Homework_Find_Population.dll
+C:\Users\Ismayil Hasanov\source\repos\Homework_Find_Population\Homework_Find_Population\bin\Debug\netcoreapp3.1\Homework_Find_Population.pdb
+C:\Users\Ismayil Hasanov\source\repos\Homework_Find_Population\Homework_Find_Population\obj\Debug\netcoreapp3.1\Homework_Find_Population.dll
+C:\Users\Ismayil Hasanov\source\repos\Homework_Find_Population\Homework_Find_Population\obj\Debug\netcoreapp3.1\Homework_Find_Population.pdb
+C:\Users\Ismayil Hasanov\source\repos\Homework_Find_Population\Homework_Find_Population\obj\Debug\netcoreapp3.1\Homework_Find_Population.genruntimeconfig.cache
